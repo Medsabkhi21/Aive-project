@@ -154,9 +154,9 @@ Links I used to learn how to
 
 1. Clone the repository recursively:
 
-`git clone --recurse-submodules https://github.com/Medsabkhi21/humans-tracker.git`
+`git clone --recurse-submodules https://github.com/Medsabkhi21/Aive-project.git`
 
-2.fulfill all the requirements: Python >=3.8  [requirements.txt](Yolov5_StrongSORT_OSNet/requirements.txt) dependencies installed, including torch>=1.7. To install, run:
+2.fulfill all the requirements: Python >=3.8  [requirements.txt](Aive-project/requirements.txt) dependencies installed, including torch>=1.7. To install, run:
 
 `pip install -r requirements.txt`
 
