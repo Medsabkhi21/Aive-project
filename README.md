@@ -1,4 +1,4 @@
-# Aive Technical Assessment: Human Tracker
+# Human detector and Tracker: using Yolov5 & StrongSort
 ## Computervision Models: Yolov5 + StrongSORT with OSNet
 
 
